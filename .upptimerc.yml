@@ -31,17 +31,17 @@ assignees:
 #status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  baseUrl: /upptime
-  logoUrl: https://static.wixstatic.com/media/75e877_35854fe0ffa04d28a8e34544e4b6103f~mv2.jpg/v1/fill/w_80,h_80,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo-ml-icono.jpg
-  name: Meyer Lab
-  introTitle: "**Upptime** Meyer Lab."
-  introMessage: test
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #cname: demo.upptime.js.org
+  #baseUrl: /upptime
+ #logoUrl: https://static.wixstatic.com/media/75e877_35854fe0ffa04d28a8e34544e4b6103f~mv2.jpg/v1/fill/w_80,h_80,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo-ml-icono.jpg
+  #name: Meyer Lab
+  #introTitle: "**Upptime** Meyer Lab."
+  #ntroMessage: test
+ # navbar:
+#    - title: Status
+ #     href: /
+  #  - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
