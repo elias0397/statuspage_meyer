@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 694,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "time": 695,
+    "timeDay": 695,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "meyer-lab-smtp",
     "status": "up",
-    "uptime": "21.33%",
-    "uptimeDay": "21.33%",
-    "uptimeWeek": "21.33%",
-    "uptimeMonth": "21.33%",
-    "uptimeYear": "21.33%",
-    "time": 246,
-    "timeDay": 246,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "uptime": "24.22%",
+    "uptimeDay": "24.22%",
+    "uptimeWeek": "24.22%",
+    "uptimeMonth": "24.22%",
+    "uptimeYear": "24.22%",
+    "time": 250,
+    "timeDay": 250,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2022-04-22": 142
     }
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "meyer-lab-imap",
     "status": "up",
-    "uptime": "21.32%",
-    "uptimeDay": "21.32%",
-    "uptimeWeek": "21.32%",
-    "uptimeMonth": "21.32%",
-    "uptimeYear": "21.32%",
-    "time": 187,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "uptime": "24.21%",
+    "uptimeDay": "24.21%",
+    "uptimeWeek": "24.21%",
+    "uptimeMonth": "24.21%",
+    "uptimeYear": "24.21%",
+    "time": 190,
+    "timeDay": 190,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2022-04-22": 142
     }
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "meyer-lab-pop",
     "status": "up",
-    "uptime": "21.32%",
-    "uptimeDay": "21.32%",
-    "uptimeWeek": "21.32%",
-    "uptimeMonth": "21.32%",
-    "uptimeYear": "21.32%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "uptime": "24.21%",
+    "uptimeDay": "24.21%",
+    "uptimeWeek": "24.21%",
+    "uptimeMonth": "24.21%",
+    "uptimeYear": "24.21%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2022-04-22": 142
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-22": 72
+      "2022-04-22": 79
     }
   }
 ]
