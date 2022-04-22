@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 754,
-    "timeWeek": 754,
-    "timeMonth": 754,
-    "timeYear": 754,
+    "time": 743,
+    "timeDay": 743,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -75,6 +75,26 @@
     "timeYear": 184,
     "dailyMinutesDown": {
       "2022-04-22": 142
+    }
+  },
+  {
+    "name": "Web caida",
+    "url": "web.caida.com.nz",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web-caida",
+    "status": "down",
+    "uptime": "6.22%",
+    "uptimeDay": "6.22%",
+    "uptimeWeek": "6.22%",
+    "uptimeMonth": "6.22%",
+    "uptimeYear": "6.22%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-22": 0
     }
   }
 ]
