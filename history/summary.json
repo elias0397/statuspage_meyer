@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.meyerlab.com.py",
     "slug": "meyer-lab-web",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.96%",
-    "time": 744,
-    "timeDay": 1969,
-    "timeWeek": 1343,
-    "timeMonth": 960,
-    "timeYear": 744,
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 740,
+    "timeDay": 1979,
+    "timeWeek": 1338,
+    "timeMonth": 915,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-07-07": 10,
       "2022-06-22": 35
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 226,
-    "timeDay": 190,
-    "timeWeek": 212,
-    "timeMonth": 221,
-    "timeYear": 226,
+    "time": 225,
+    "timeDay": 172,
+    "timeWeek": 206,
+    "timeMonth": 219,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2022-04-22": 142
     }
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 171,
-    "timeDay": 142,
-    "timeWeek": 161,
-    "timeMonth": 168,
+    "timeDay": 143,
+    "timeWeek": 158,
+    "timeMonth": 167,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-04-22": 142
@@ -73,8 +72,8 @@
     "uptimeYear": "99.87%",
     "time": 173,
     "timeDay": 142,
-    "timeWeek": 161,
-    "timeMonth": 167,
+    "timeWeek": 157,
+    "timeMonth": 166,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2022-04-22": 142
@@ -97,7 +96,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-07": 1072,
+      "2022-07-08": 68,
+      "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
