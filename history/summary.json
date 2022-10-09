@@ -25,9 +25,9 @@
     "url": "vps-1397470-x.dattaweb.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -37,6 +37,7 @@
     "timeMonth": 379,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2022-10-09": 0,
       "2022-08-28": 112,
       "2022-07-16": 24,
       "2022-04-22": 142
@@ -47,9 +48,9 @@
     "url": "vps-1397470-x.dattaweb.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-imap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -59,6 +60,7 @@
     "timeMonth": 303,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2022-10-09": 0,
       "2022-08-28": 111,
       "2022-04-22": 142
     }
@@ -101,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-09": 76,
+      "2022-10-09": 918,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
