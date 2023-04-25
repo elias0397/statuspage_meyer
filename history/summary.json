@@ -6,14 +6,14 @@
     "slug": "meyer-lab-web",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 877,
-    "timeDay": 1952,
-    "timeWeek": 1134,
-    "timeMonth": 916,
+    "time": 876,
+    "timeDay": 388,
+    "timeWeek": 1046,
+    "timeMonth": 828,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2023-04-23": 28,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 332,
-    "timeDay": 475,
-    "timeWeek": 345,
-    "timeMonth": 379,
-    "timeYear": 336,
+    "timeDay": 357,
+    "timeWeek": 348,
+    "timeMonth": 380,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2023-03-06": 24,
       "2023-02-02": 69,
@@ -59,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 263,
-    "timeDay": 316,
-    "timeWeek": 261,
-    "timeMonth": 292,
-    "timeYear": 266,
+    "timeDay": 298,
+    "timeWeek": 276,
+    "timeMonth": 296,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2022-12-18": 81,
       "2022-10-09": 24,
@@ -81,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 235,
-    "timeDay": 300,
-    "timeWeek": 219,
-    "timeMonth": 253,
+    "timeDay": 277,
+    "timeWeek": 232,
+    "timeMonth": 252,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-12-18": 80,
@@ -107,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-24": 53,
+      "2023-04-25": 52,
+      "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -470,8 +471,7 @@
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
-      "2022-04-26": 1440,
-      "2022-04-25": 1440
+      "2022-04-26": 1440
     }
   }
 ]
