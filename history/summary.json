@@ -4,9 +4,9 @@
     "url": "https://www.meyerlab.com.py/",
     "icon": "https://icons.duckduckgo.com/ip3/www.meyerlab.com.py.ico",
     "slug": "meyer-lab-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 683,
     "timeYear": 805,
     "dailyMinutesDown": {
+      "2023-08-30": 0,
       "2023-06-29": 109,
       "2023-04-23": 28,
       "2023-01-23": 21,
@@ -113,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-30": 43,
+      "2023-08-30": 266,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
