@@ -29,9 +29,9 @@
     "slug": "meyer-lab-smtp",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.79%",
     "time": 355,
     "timeDay": 363,
@@ -39,7 +39,6 @@
     "timeMonth": 367,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-09-10": 9,
       "2023-09-01": 20,
       "2023-08-27": 18,
       "2023-07-11": 28,
@@ -59,9 +58,9 @@
     "slug": "meyer-lab-imap",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 282,
     "timeDay": 213,
@@ -69,7 +68,6 @@
     "timeMonth": 294,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-09-10": 8,
       "2023-07-07": 35,
       "2023-06-30": 582,
       "2023-06-29": 203,
@@ -84,17 +82,16 @@
     "slug": "meyer-lab-pop",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.84%",
     "time": 249,
     "timeDay": 307,
     "timeWeek": 248,
     "timeMonth": 264,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2023-09-10": 7,
       "2023-06-30": 582,
       "2023-06-29": 202,
       "2022-12-18": 80
@@ -117,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1406,
+      "2023-09-11": 43,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -480,8 +478,7 @@
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
-      "2022-09-12": 1440,
-      "2022-09-11": 1440
+      "2022-09-12": 1440
     }
   }
 ]
