@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 828,
-    "timeDay": 360,
-    "timeWeek": 835,
-    "timeMonth": 891,
+    "time": 827,
+    "timeDay": 491,
+    "timeWeek": 733,
+    "timeMonth": 882,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2023-06-29": 109,
@@ -28,14 +28,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-smtp",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.78%",
     "time": 343,
-    "timeDay": 332,
-    "timeWeek": 386,
+    "timeDay": 409,
+    "timeWeek": 362,
     "timeMonth": 372,
     "timeYear": 379,
     "dailyMinutesDown": {
@@ -64,9 +64,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 286,
-    "timeDay": 401,
-    "timeWeek": 343,
-    "timeMonth": 315,
+    "timeDay": 225,
+    "timeWeek": 330,
+    "timeMonth": 309,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-09-15": 82,
@@ -89,10 +89,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 251,
-    "timeDay": 171,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 270,
+    "timeDay": 230,
+    "timeWeek": 257,
+    "timeMonth": 261,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2023-09-15": 81,
       "2023-06-30": 582,
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 43,
+      "2023-09-21": 43,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -480,8 +481,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   }
 ]
