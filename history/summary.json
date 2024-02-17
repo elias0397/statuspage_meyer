@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 785,
-    "timeDay": 627,
-    "timeWeek": 643,
-    "timeMonth": 603,
+    "timeDay": 689,
+    "timeWeek": 677,
+    "timeMonth": 606,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2023-11-28": 29,
@@ -32,17 +32,16 @@
     "slug": "meyer-lab-smtp",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.72%",
     "time": 353,
-    "timeDay": 156,
-    "timeWeek": 166,
+    "timeDay": 151,
+    "timeWeek": 163,
     "timeMonth": 164,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-02-16": 7,
       "2024-02-09": 51,
       "2024-02-08": 171,
       "2024-01-15": 20,
@@ -74,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 288,
-    "timeDay": 165,
-    "timeWeek": 169,
-    "timeMonth": 163,
-    "timeYear": 282,
+    "timeDay": 158,
+    "timeWeek": 166,
+    "timeMonth": 162,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2023-11-24": 16,
       "2023-11-14": 28,
@@ -100,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 257,
-    "timeDay": 165,
-    "timeWeek": 169,
-    "timeMonth": 163,
+    "timeDay": 151,
+    "timeWeek": 164,
+    "timeMonth": 162,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2023-11-14": 25,
@@ -129,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-16": 1064,
+      "2024-02-17": 43,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -492,8 +492,7 @@
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
-      "2023-02-18": 1440,
-      "2023-02-17": 1440
+      "2023-02-18": 1440
     }
   }
 ]
